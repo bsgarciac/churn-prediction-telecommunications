@@ -1,7 +1,7 @@
 # Churn Prediction API using Classification Models
 
 ## Overview
-This API employs various classification models to predict customer churn for a telecommunications company. It exposes endpoints to make predictions, and retrieve model explanations. [Explanation Video](https://www.youtube.com/watch?v=ijLoX-LJflY&feature=youtu.be)
+This API employs various classification models to predict customer churn for a telecommunications company. It exposes endpoints to make predictions, and retrieve model explanations. You can also check out the [Api Rest Usage Video](https://www.youtube.com/watch?v=ijLoX-LJflY&feature=youtu.be) to get a better view of it.
 
 # Contributors
 * Juan David Ayala Nariño
